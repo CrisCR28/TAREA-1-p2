@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Documents\Tarea1\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+C:\Users\Cristofer\Documents\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Documents\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\Cristofer\Documents\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\Cristofer\Documents\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\Cristofer\Documents\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\Cristofer\Documents\Tarea1\obj\Debug\Tarea1.pdb
